@@ -1,5 +1,5 @@
-import express from "express";
-import translation from "./db/data.json" assert { type: "json" };
+const express = require("express");
+const translation = require("./db/data.json");
 
 const app = express();
 
