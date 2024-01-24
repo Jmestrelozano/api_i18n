@@ -5,11 +5,11 @@ const app = express();
 
 const port = process.env.port | 3000;
 
-app.get("/api", (req, res) => {
+app.get("/", (req, res) => {
   res.send("ok");
 });
 
-app.get("/api/translations", (req, res) => {
+app.get("/translations", (req, res) => {
   res
     .status(200)
     .json({ data: translation, message: "translations obtained correctly" });
