@@ -1,0 +1,23 @@
+[
+  {
+    "language": "en",
+    "name": "Example",
+    "description": "JSON file generated from a React script for English",
+    "welcome": "React + Vite + i18N NEXT Test#2 223",
+    "buttonNext": "next"
+  },
+  {
+    "language": "es",
+    "name": "Ejemplo",
+    "description": "Archivo JSON generado desde un script en React para español",
+    "welcome": "React + Vite + i18N",
+    "buttonNext": "siguiente"
+  },
+  {
+    "language": "gr",
+    "name": "Beispiel",
+    "description": "JSON-Datei aus einem React-Skript für Deutsch",
+    "welcome": "React + Vite + i18N",
+    "buttonNext": "siguiente adssad"
+  }
+]
